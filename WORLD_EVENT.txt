@@ -1,0 +1,22 @@
+Jackson McDaniel
+Mya Hauck
+
+All of the original entities were changed to Monsters Inc characters. The background was changed to the Monsters Incorporated Scare Floor.
+
+
+Existing Entities:
+	Veins: Broken Scare Floor Doors
+	Ores: Boo
+	Oreblobs: Animated CDA Agents (Child Detection Agency)
+	Blackmiths: Scare Floor Doors
+	Miners: Animated Mike and Sully
+	Obstacles: Crates on the Scare Floor
+
+
+New Entity: 
+	Animated Randall (Sully’s arch nemesis)
+	Randall can be activated by clicking anywhere on the screen. When spawned, he can be seen surrounded by full scare canisters. After this he makes his way around the map, searching out the nearest Mike or Sully and scaring them into oblivion (The miner in question is removed from the world). 
+
+Code Changes:
+	A new Randall class which extends MoveToEntity was added. This class shares code with the OreBlob class, as their directives are similar. A mousePressed function was added to the VirtualWorld class with accompanying helper functions to initialize Randall in the world. Also, randomization code was added so the miners are assigned an image key at random that corresponds to either Mike or Sully. 
+

@@ -1,0 +1,35 @@
+blacksmith images/door.bmp 255 255 255 0
+blob images/yellow1.bmp 255 255 255 0
+blob images/yellow2.bmp 255 255 255 0
+blob images/yellow3.bmp 255 255 255 0
+blob images/yellow4.bmp 255 255 255 0
+grass images/stone.bmp
+miner images/sully1.bmp 255 255 255 0
+miner images/sully2.bmp 255 255 255 0
+miner images/sully3.bmp 255 255 255 0
+miner images/sully4.bmp 255 255 255 0
+miner1 images/mike1.bmp 255 255 255 0
+miner1 images/mike2.bmp 255 255 255 0
+obstacle images/crate.bmp
+ore images/newboo.bmp 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+kill images/kill1.bmp 255 255 255 0
+kill images/kill2.bmp 255 255 255 0
+kill images/kill3.bmp 255 255 255 0
+kill images/kill4.bmp 255 255 255 0
+kill images/kill5.bmp 255 255 255 0
+rocks images/canisters.bmp
+vein images/broken.bmp 255 255 255 0
+ice images/freeze4.bmp 255 255 255 0
+background_default images/none.bmp
+randall images/randall1.bmp 255 255 255 0
+randall images/randall2.bmp 255 255 255 0
+randall images/randall3.bmp 255 255 255 0
+randall-cardinal images/randall-cardinal.bmp
+randall-forwardslash images/randall-forwardslash.bmp
+randall-backslash images/randall-backslash.bmp
